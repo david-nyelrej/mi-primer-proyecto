@@ -1,0 +1,2 @@
+echo Nombre: David Garcia > datos.txt
+echo Programa: analisis y desarrollo de software >> datos.txt
